@@ -19,7 +19,7 @@
 ![](https://komarev.com/ghpvc/?username=Ydigit&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=Ydigit.Ydigit)
 <img src="https://img.shields.io/github/forks/Ydigit/Ydigit?style=social"></img>
-<h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/portugueseparrot.gif" width="30" height="40"/></h2>
+<h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/parrot.gif" width="30" height="40"/></h2>
 https://ydigit.github.io/personaldeploy/
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
