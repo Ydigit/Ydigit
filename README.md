@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
 <h2> Connect with me on 👇</h2>
-<a href="https://www.linkedin.com/in/muskan-rani-980553188/" target="_blank">
+<a href="https://www.linkedin.com/in/leonardo-gon%C3%A7alves-0869631b1/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
 <a href="https://www.hackerrank.com/MuskanRani" target="_blank">
