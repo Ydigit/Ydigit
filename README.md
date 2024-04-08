@@ -4,12 +4,6 @@
 <a href="https://www.linkedin.com/in/leonardo-gon%C3%A7alves-0869631b1/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
-<a href="https://www.hackerrank.com/MuskanRani" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
-</a> 
-<a href="https://twitter.com/_muskan_gupta_" target="_blank">
-<img src="https://img.shields.io/badge/Twitter--blue" />
-</a>
 </a> 
 <a href="https://leetcode.com/Muskan_Rani/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode--blue" />
@@ -18,7 +12,7 @@
 <br/> 
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/Ydigit/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
 <br/>
 
