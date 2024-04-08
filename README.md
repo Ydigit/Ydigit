@@ -12,8 +12,8 @@
 <br/> 
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/Ydigit/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
+<a href="https://github.com/Ydigit/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydigit&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ydigit&theme=tokyonight" alt="Ydigit" />
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
