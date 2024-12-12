@@ -47,16 +47,16 @@
 
 <h2 align="center">🚀 Languages and Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java">
-  <img src="https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat" alt="Scala">
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat" alt="Dart">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat" alt="Flutter">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat" alt="SQL">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3">
-  <img src="https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&logoColor=white&style=flat" alt="OCaml">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white&style=for-the-badge" alt="Scala">
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
+  <img src="https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white&style=for-the-badge" alt="OCaml">
 </p>
 
 ---
