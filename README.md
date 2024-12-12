@@ -32,14 +32,6 @@
 </div>
 
 ---
-<div align="center">
-  <a href="https://github.com/Ydigit/github-readme-streak-stats">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ydigit&theme=tokyonight" alt="GitHub Streak">
-  </a>
-  <p>🔥 Daily Commits: <strong>See how many commits you've made today!</strong></p>
-</div>
-
----
 
 <h2 align="center">🚀 Languages and Tools</h2>
 <p align="center">
