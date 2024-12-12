@@ -24,18 +24,6 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Ydigit&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ydigit&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="Top Languages">
-  </a>
-  <a href="https://github.com/Ydigit/github-readme-streak-stats">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ydigit&theme=tokyonight" alt="GitHub Streak">
-  </a>
-</div>
-
----
-
 <h2 align="center">✨ Profile Insights</h2>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ydigit&color=brightgreen" alt="Profile Views">
